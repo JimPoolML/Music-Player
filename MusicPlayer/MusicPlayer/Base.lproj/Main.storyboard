@@ -87,7 +87,7 @@
                         <viewLayoutGuide key="safeArea" id="HOo-qb-rXw"/>
                     </view>
                     <connections>
-                        <outlet property="holder" destination="5AI-va-475" id="iuP-KP-D33"/>
+                        <outlet property="holder" destination="5AI-va-475" id="kaf-wW-nnv"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="j23-V9-yIf" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>

@@ -66,6 +66,9 @@
 		BBAAA9FA259B71D8004D5743 /* MusicPlayer */ = {
 			isa = PBXGroup;
 			children = (
+				BBAAAA15259BBE8A004D5743 /* song1.mp3 */,
+				BBAAAA14259BBE83004D5743 /* song2.mp3 */,
+				BBAAAA13259BBE80004D5743 /* song3.mp3 */,
 				BBAAAA12259BBD32004D5743 /* Audio */,
 				BBAAA9FB259B71D8004D5743 /* AppDelegate.swift */,
 				BBAAA9FD259B71D8004D5743 /* SceneDelegate.swift */,
@@ -83,9 +86,6 @@
 		BBAAAA12259BBD32004D5743 /* Audio */ = {
 			isa = PBXGroup;
 			children = (
-				BBAAAA15259BBE8A004D5743 /* song1.mp3 */,
-				BBAAAA14259BBE83004D5743 /* song2.mp3 */,
-				BBAAAA13259BBE80004D5743 /* song3.mp3 */,
 			);
 			path = Audio;
 			sourceTree = "<group>";

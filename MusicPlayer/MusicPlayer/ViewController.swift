@@ -78,6 +78,9 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         guard let vc = storyboard?.instantiateViewController(identifier: "player") as? PlayerViewController else {
             return
         }
+//        guard let vc = storyboard?.instantiateViewController(identifier: "player") as? PlayerViewController else {
+//            return
+//        }
         //Constructor ??
         vc.listSongs = listSongs
         vc.position = position
